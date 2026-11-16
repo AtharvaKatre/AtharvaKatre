@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaKatre&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AtharvaKatre&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=AtharvaKatre&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
